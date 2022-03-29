@@ -7,8 +7,7 @@
 <img src="https://user-images.githubusercontent.com/80202313/160411140-5666b659-a3d5-47f7-a6cc-9d2b272544ac.jpg" width="25%">
 
 
-#### The player gets hints if the number is too low or too high
+#### The player gets hints as to whether the number is too high or too low
 #### One point is substracted from the score for each incorrect number
 
 <img src="https://user-images.githubusercontent.com/80202313/160411195-9eaaafc7-deac-45ae-9d36-6986634836c0.png" width="25%">
-
